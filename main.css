@@ -1,0 +1,48 @@
+.bodybg{
+    background-color: black;
+}
+
+.container {
+    height: 1500px;
+    background-color: rgb(0, 0, 0);
+    text-align:center;
+    color: green;
+}
+
+.sticky-container {
+    margin-top: 250px;
+    padding-top: 20px;
+    height: 1200px;
+    background-color: black;
+    color: white;
+}
+
+.sticky {
+    position: sticky;
+    top: 50px;
+    text-align: center;
+    background-color: black;
+
+}
+
+#animation-container {
+    height: 180px;/*Static height so the page does not change on animation load */
+
+
+}
+
+.legal{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: red;
+}
+
+.link{
+    color: green;
+}
+
+.licence{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
